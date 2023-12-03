@@ -1,0 +1,11 @@
+CREATE TABLE MATZIP (
+	INDEX_NUM int,
+    NAME varchar(50),
+    GUGUN varchar(15),
+    LAT double,
+    LNG double,
+    ADDR varchar(150),
+    TEL varchar(15),
+    TIME varchar(150),
+    MENU varchar(100)
+);
